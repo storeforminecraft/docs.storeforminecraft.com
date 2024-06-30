@@ -18,6 +18,9 @@ Thymedesk (https://storeforminecraft.com or ‘Store for Minecraft’) is transf
 
    * Device unique identifier
 
+   * Country
+
+   * Using Language
      
 
 2. Country, date, and time of transfer

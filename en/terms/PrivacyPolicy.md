@@ -68,7 +68,7 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
  1. Information of registered user of 'Store for Minecraft'
 
-    Essentials : email, password, name, service usage records, connection logs, connection IP information, unique device identifier
+    Essentials : email, password, name, service usage records, connection logs, connection IP information, unique device identifier, country, using Language
 
     
 
@@ -139,7 +139,7 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
 ## 9. Change of privacy policy
 
-This Privacy Policy will be applied from Jan 20, 2023, and if there is any additional, deletion or correction of the changes in accordance with the statutes and policies, the change will be notified within seven days before the change is implemented.
+This Privacy Policy will be applied from July 10, 2024, and if there is any additional, deletion or correction of the changes in accordance with the statutes and policies, the change will be notified within seven days before the change is implemented.
 
 
 
