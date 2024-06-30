@@ -18,6 +18,10 @@ Thymedesk (https://storeforminecraft.com or ‘Store for Minecraft’) are colle
 
    * Device unique identifier
 
+   * Country
+
+   * Using Language
+
      
 
 2. Purpose of collection and use
@@ -25,6 +29,8 @@ Thymedesk (https://storeforminecraft.com or ‘Store for Minecraft’) are colle
    * To manage registered users
 
    * To prevent restricted user's attempt of re-registering
+
+   * To provides content translation and inquiry service multilingual support
 
      
 
